@@ -3,9 +3,8 @@ WonJun Moon*</sup>, Hyun Seok Seong*</sup>, Jae-Pil Heo</sup> (*: equal contribu
 
 [[Arxiv](https://arxiv.org/abs/2508.07877)]
 
-### Source Code
+## Source Code
 Code will be released soon.
-------------
 
 ### Checkpoints
 Dataset | Model file
